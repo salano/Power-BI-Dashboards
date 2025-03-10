@@ -17,3 +17,6 @@ Several types of metrics are displayed in the visual using various DAX formulas 
 ![Alt text](sales_performance.png)
 ![Alt text](pareto_chart.png)
 ![Alt text](Booking_report.png)
+
+Dynamic pareto product analysis shwoing cummulative revenue and revenue percentage
+![Alt text](dynamic_pareto.png)
